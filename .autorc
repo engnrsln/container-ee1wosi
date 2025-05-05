@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "engnrsln",
+  "repo": "container-ee1wosi",
+  "name": "engnrsln",
+  "email": "enginarslan@live.com",
+}
